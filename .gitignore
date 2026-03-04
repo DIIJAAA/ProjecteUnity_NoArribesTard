@@ -48,3 +48,5 @@ Library/PackageCache/
 # Crash reports
 sysinfo.txt
 
+# Local helper files
+.tmp_meta_files.txt
